@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GuidoAertssen
+- 👀 I’m interested in networks, kubernetes, docker, vmware. 
+- 🌱 I’m currently learning CCNP
+- 📫 How to reach me Guido.Y.Aertssen@outlook.com
